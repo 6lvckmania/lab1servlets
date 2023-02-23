@@ -1,6 +1,4 @@
-# lab1servlets
-
-Lab 1: Servlets
+# Lab 1: Servlets
 
 15 points. Create a Servlet that:
 ◆ receives the following parameters key:String, value:Int, test:Boolean.
